@@ -1,0 +1,40 @@
+{
+  "vulnerabilities": [
+    {
+      "name": "Cloud Metadata Potentially Exposed",
+      "count": "1"
+    },
+    {
+      "name": "CSP: Wildcard Directive",
+      "count": "2"
+    },
+    {
+      "name": "Content Security Policy (CSP) Header Not Set",
+      "count": "610"
+    },
+    {
+      "name": "Cross-Domain Misconfiguration",
+      "count": "627"
+    },
+    {
+      "name": "Cross-Domain JavaScript Source File Inclusion",
+      "count": "1204"
+    },
+    {
+      "name": "Timestamp Disclosure - Unix",
+      "count": "1"
+    },
+    {
+      "name": "Information Disclosure - Suspicious Comments",
+      "count": "2"
+    },
+    {
+      "name": "Modern Web Application",
+      "count": "603"
+    },
+    {
+      "name": "User Agent Fuzzer",
+      "count": "24"
+    }
+  ]
+}
